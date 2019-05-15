@@ -1,4 +1,4 @@
-# moba_prototype
+# moba_prototype - MASTER DEGREE PROJECT AND DOCUMENTATION
 
 Master Degree project prototype and documentation:
 
